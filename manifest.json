@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-special-effects",
+  "name": "Special Effects Renderer",
+  "version": "0.0.1",
+  "minAppVersion": "1.5.0",
+  "description": "Projects shader-based lens flare, bloom, glare, glitter, and glow effects over the Obsidian editor.",
+  "author": "Benjamin Steimer",
+  "authorUrl": "https://github.com/alephtex",
+  "isDesktopOnly": false
+}
+

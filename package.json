@@ -1,0 +1,30 @@
+{
+  "name": "obsidian-special-effects",
+  "version": "0.0.1",
+  "description": "Obsidian plugin that renders shader-based special effects like lens flare, bloom, glare, glitter, and glow over the editor UI.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs --watch",
+    "build": "node esbuild.config.mjs",
+    "version": "node version-bump.mjs"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "webgl",
+    "shader",
+    "effects"
+  ],
+  "author": "Benjamin Steimer",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@typescript-eslint/eslint-plugin": "^7.1.0",
+    "@typescript-eslint/parser": "^7.1.0",
+    "esbuild": "^0.20.2",
+    "obsidian": "^1.5.11",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  }
+}
+
