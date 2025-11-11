@@ -16,7 +16,7 @@
     "effects"
   ],
   "author": "Benjamin Steimer",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^20.11.30",
     "@typescript-eslint/eslint-plugin": "^7.1.0",

@@ -4,7 +4,7 @@ A shader-based visual effects plugin for Obsidian that projects lens flare, bloo
 
 ![Obsidian Special Effects](https://img.shields.io/badge/Obsidian-Plugin-orange?style=flat-square)
 ![Version](https://img.shields.io/badge/version-0.0.1-blue?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![License](https://img.shields.io/badge/license-Apache%202.0-green?style=flat-square)
 
 ## Features
 
@@ -174,7 +174,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Acknowledgments
 
