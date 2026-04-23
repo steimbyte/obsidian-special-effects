@@ -1,5 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
 
+> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
+
+
 # Obsidian Special Effects Renderer
 
 A shader-based visual effects plugin for Obsidian that projects lens flare, bloom, glare, glitter, and glow effects over the entire UI.
